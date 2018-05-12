@@ -1,0 +1,40 @@
+_repo: De-grondbeginselen-der-Nederlandsche-spelling--13-Regeling-der-spelling-voor-het-woordenboek-__27335
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Winkel, L. A. te
+    aliases:
+    - Winkel, Lammert te
+    - Winkel, Lamert Allard te
+    - Winkel, Lambert Allard te
+    birthdate: 1809
+    deathdate: 1868
+    gutenberg_agent_id: '32636'
+    url: http://www.gutenberg.org/2009/agents/32636
+    wikipedia: http://nl.wikipedia.org/wiki/L.A._te_Winkel
+  editor:
+    agent_name: Vries, M. de (Matthias)
+    alias: Vries, Matthias de
+    birthdate: 1820
+    deathdate: 1892
+    gutenberg_agent_id: '25504'
+    url: http://www.gutenberg.org/2009/agents/25504
+    wikipedia: http://nl.wikipedia.org/wiki/Matthias_de_Vries
+description: ''
+gutenberg_issued: '2008-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27335'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Dutch language -- Orthography and spelling'
+title: "De grondbeginselen der Nederlandsche spelling\r\nRegeling der spelling voor\
+  \ het woordenboek der Nederlandsche taal"
+url: http://www.gutenberg.org/ebooks/27335
