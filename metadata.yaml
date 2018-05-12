@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25504
     wikipedia: http://nl.wikipedia.org/wiki/Matthias_de_Vries
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27335#De-grondbeginselen-der-Nederlandsche-spelling--13-Regeling-der-spelling-voor-het-woordenboek-_
 gutenberg_issued: '2008-11-26'
 gutenberg_type: Text
 identifiers:
